@@ -1,0 +1,41 @@
+.movie__container {
+  align-items: center;
+  align-content: center;
+  width: 80%;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+.movie_poster-and-text__container {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+}
+
+.movie__h2 {
+  text-align: center;
+  font-family: "Yuji Hentaigana Akari", cursive;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.movie_h2-movie-title {
+  text-align: center;
+  font-family: "Alfa Slab One", cursive;
+  font-family: "BioRhyme", serif;
+  font-size: 40px;
+  margin-bottom: 3%;
+}
+
+.movie__p-plot {
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 18px;
+}
+
+.movie__p-titles {
+  font-weight: normal;
+}
+
+.movie__p-fields {
+  font-weight: normal;
+}
